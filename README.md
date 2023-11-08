@@ -3,7 +3,7 @@ CRUD system in Java using a MySQL database to teach college students how to impl
 ## About
 ### Members
 - [Ana Paula Lenckulh](https://github.com/ALenckulh)
-- Eduarda Petzinger
+- [Eduarda Petzinger](https://github.com/dudapetzinger)
 - [Eduardo Bizzi Martins](https://github.com/b1zz1)
 - [Miguel Ricardo Buttendorf](https://github.com/Miggeru)
 - [Samara Cassie dos Santos](https://github.com/samaraCassie)
